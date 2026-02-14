@@ -1,5 +1,7 @@
 ## Grupo 
 
-Pablo cabrera
-Luis palacios
+Pablo cabrera,
+
+Luis palacios,
+
 Hugo Ernesto
